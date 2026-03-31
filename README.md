@@ -24,7 +24,7 @@ This project is part of the Digital Literacy course. It demonstrates my understa
 ---
 
 ##  Google Form Link
-[](https://forms.gle/noCRsJKTNT3Jzv4w6)
+https://forms.gle/noCRsJKTNT3Jzv4w6
 
 ---
 
