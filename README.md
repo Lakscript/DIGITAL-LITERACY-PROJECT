@@ -23,10 +23,10 @@ This project is part of the Digital Literacy course. It demonstrates my understa
 
 ---
 
-## 🔗 Google Form Link
+##  Google Form Link
 [](https://forms.gle/noCRsJKTNT3Jzv4w6)
 
 ---
 
-## 💡 Learning Outcome
+##  Learning Outcome
 Through this project, I learned about digital literacy, safe internet usage, professional communication, and the importance of maintaining a digital presence.
